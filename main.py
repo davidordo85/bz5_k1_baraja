@@ -1,5 +1,5 @@
 import random
-import requests
+
 
 def tira_dado():
     return random.randrange(1, 7)
